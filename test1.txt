@@ -1,3 +1,2 @@
 this is my first git test
 this is my second line - written on github site
-this would be the fourth line
